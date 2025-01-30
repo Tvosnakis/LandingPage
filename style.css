@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    font-family: "inter";
+}
+
+.hero-header {
+    background-color: black;
+    background-image: url(imagens/upper-background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    color: white;
+
+}
+
+#logo {
+    margin-top: 35px;
+    margin-left: 50px;
+           
+}
+
+#title-uppermenu {
+    margin-left: 150px;
+    margin-top: 50px;
+    line-height: 120%;
+}
+
+#text-uppermenu {
+    margin-left: 150px;
+    margin-top: 25px;
+    line-height: 150%;
+}
+
+.infobar {
+    background-color: #EAECE5;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding-left: 10%;
+    padding-right: 10%;
+    flex-wrap: wrap;
+}
+
+.info {
+    display: flex;
+    line-height: 30px;
+    align-items: center;
+    color: #122235;
+
+}
+
+.info > p {
+    margin-left: 15px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
