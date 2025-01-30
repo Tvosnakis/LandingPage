@@ -23,6 +23,8 @@
     margin-left: 150px;
     margin-top: 50px;
     line-height: 120%;
+    font-weight: 400;
+    letter-spacing: 2px;
 }
 
 #text-uppermenu {
@@ -37,8 +39,8 @@
     display: flex;
     align-items: center;
     justify-content:space-around;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     flex-wrap: wrap;
 }
 
@@ -51,8 +53,8 @@
 }
 
 .info > p {
-    margin-left: 15px;
-    font-size: 17px;
+    margin-left: 10px;
+    font-size: 15px;
     font-weight: 500;
 }
 
